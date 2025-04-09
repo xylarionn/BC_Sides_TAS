@@ -1,0 +1,34 @@
+console load bcwserr/BcwserrsBCSides/3BC
+#a-01
+  76
+   4,R,Z
+   2,R,J
+   8,R
+***s
+  17,R,J
+  17,R
+  10,U,X
+***s
+  27,R,J
+  16,R,G
+   6,R,K,G
+  16,R
+***s
+  37,R,K
+  16,R,D
+#a-02
+  17,R,Z
+***s
+   1,R,J
+   5,R,D,X
+   1,R,J
+***s
+  47,R
+***s
+   6,R,J
+  10,R
+  14,R,U,X
+***s
+  14,R,Z
+  12,R,J
+  99,R,Z
