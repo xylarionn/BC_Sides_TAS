@@ -1,6 +1,6 @@
 console load bcwserr/BcwserrsBCSides/7BC
    1
-# Start
+#Start
   90
 #a-01
   14,L,X
@@ -656,19 +656,29 @@ console load bcwserr/BcwserrsBCSides/7BC
   18,R,D,X
    5,R,J
   12,R,D,X
+   4,R,J
+   5,R,D,X
+   4,R,K,G
+  14,R
+   2,R,J
+   5,R,D,X
+   4,R,K,G
+   5,R
+   2,R,K,G
+  11,R
    5,R,J
-  10,R,K,G
-  10,R,D,X
-   3,R,J
-   5,R,K,G
-   6,R,D,X
-   4,R,J
-  10,R,K,G
-  11,R,D,X
-   4,R,J
-  10,R,K,G
-   9,R,D,X
-  29,R,J
+   5,R,D,X
+   1,R,K,G
+  11,R
+  10,R,J
   14,R,U,X
- 300
-ChapterTime: 2:17.343(8079)
+  14,R,Z
+   5,R
+ 135
+Repeat, 67
+   1,R
+   1,L
+EndRepeat
+   1,R
+
+ChapterTime: 2:17.105(8065)
