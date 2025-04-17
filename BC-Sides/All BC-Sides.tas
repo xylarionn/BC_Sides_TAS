@@ -5,37 +5,35 @@ Read,StartBCSidesFile
 
 Read,1BC
 
-Read,LoadAFromB
+Read,LoadAFromBNPC
 
 Read,2BC
 
-Read,LoadAFromB
+Read,LoadAFromBNPC
 
 Read,3BC
 
-Read,LoadAFromB
+Read,LoadAFromBNPC
 
 Read,4BC
 
-Read,LoadAFromB
+Read,LoadAFromBNPC
 
 Read,5BC
 
-Read,LoadAFromB
+Read,LoadAFromBNPC
 
 Read,6BC
 
-Read,LoadAFromB
-
-Read,LoadAFromB
+Read,LoadAFromBNPC
 
 Read,7BC
 
-Read,LoadAFromB
+Read,LoadAFromBNPC
 
 Read,8BC
 
-Read,LoadAFromB
+Read,LoadAFromBNPC
 
 Read,9BC
 
