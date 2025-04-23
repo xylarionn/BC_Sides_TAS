@@ -1,40 +1,42 @@
-FileTime:
+FileTime: 9:47.860(34580)
 #Start from Begin
 
 Read,StartBCSidesFile
 
-Read,1BC
+Read,1BC,Start
 
 Read,LoadAFromBNPC
 
-Read,2BC
+Read,2BC,Start
 
 Read,LoadAFromBNPC
 
-Read,3BC
+Read,3BC,Start
 
 Read,LoadAFromBNPC
 
-Read,4BC
+Read,4BC,Start
 
 Read,LoadAFromBNPC
 
-Read,5BC
+Read,5BC,Start
 
 Read,LoadAFromBNPC
 
-Read,6BC
+Read,6BC,Start
 
 Read,LoadAFromBNPC
 
-Read,7BC
+Read,7BC,Start
 
 Read,LoadAFromBNPC
 
-Read,8BC
+Read,8BC,Start
 
-Read,LoadAFromBNPC
+Read,LoadAFromB
 
-Read,9BC
+Read,9BC,Start
+
+Read,9BC-Exit
 
 Read,LoadJournal
