@@ -15,16 +15,16 @@ console load bcwserr/BcwserrsBCSides/4BC
    5,D
    1,R,J
   15,R,Z
-   9,U,X
-  21,R,J
-  14,R,U,X
-  26,R,D
-   2,R,J,G
+  10,U,X
+  29,R,J
+  21,R,X
+   1,R,J,G
   15,R,D
-  14,R,U,X
-  41,R,D
-  12,R,X
-  13,R,D
+  15,R,D,X
+   4,R,D
+   6,R,X
+   5,R,J,G
+  25,R
   12,U,X
   39,R,D,J
   10,R,J
@@ -270,4 +270,4 @@ console load bcwserr/BcwserrsBCSides/4BC
   34,R,J
   14,L,U,X
  125
-ChapterTime: 0:44.812(2636)
+ChapterTime: 0:44.200(2600)
