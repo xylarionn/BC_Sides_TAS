@@ -1,7 +1,7 @@
 # Bcwserr'sBC_Sides
 # https://gamebanana.com/mods/572257
 
-RecordCount: 1740
+RecordCount: 1798
 
 console load bcwserr/BcwserrsBCSides/6BC
    1
@@ -113,16 +113,15 @@ console load bcwserr/BcwserrsBCSides/6BC
    4,L,Z
    1,L,J
   30,L,D
-  30,L,U,X
+  30,L,X
 Repeat,20
    1
    1,D
 EndRepeat
-   1
    1,R
    1,J
-   6
-   2,R
+   5
+   3,R
    2,J
    4
    1,R
@@ -229,4 +228,4 @@ EndRepeat
   14,U,X
   14,U,C
  142
-ChapterTime: 0:52.938(3114)
+ChapterTime: 0:52.921(3113)
