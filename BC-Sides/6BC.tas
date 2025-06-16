@@ -1,7 +1,7 @@
 # Bcwserr'sBC_Sides
 # https://gamebanana.com/mods/572257
 
-RecordCount: 1798
+RecordCount: 2466
 
 console load bcwserr/BcwserrsBCSides/6BC
    1
@@ -13,30 +13,37 @@ console load bcwserr/BcwserrsBCSides/6BC
    5,D,X
    9,R
   14,R,C
-  38,F,70
-  37,F,330
-   9,F,360
-  18,F,65
-  14,R,U,X
-  62,R,D
-  18,L,X
-  12,J
-   5,K,G
-   5,R,J,G
-   8,R,J
-  36,L,U,X
+  26,R
+  11,F,65
+  36,F,335
+  10,F,360
+  21,F,50
+  12,R,X
+  36,R
+  13
+  14,L,Z
+   4,L,J
   12,L,K,G
-  20,R
-  20,D
-  15,D,X
-   4,R,D
-  64
-   4,R,X
-  10,R,J
+   4,L,J,G
+  10,K
+   8,R,K
+  14,L,U,X
+  10,L
+  12,L
+  12,L,J,G
+  10,L
+  26
+   5,D,X
+  10
+  12,R
+  32
+   4,R,J
+   6,U,X
+  25,R,J
   40
 #lvl_a-02
-   7,R
-   4,L
+   9,R
+   2,L
    7,R,D,X
    5,R,J
    3,R,K,G
@@ -62,25 +69,23 @@ console load bcwserr/BcwserrsBCSides/6BC
   46,R,D
    5,R
   15,R,Z
-  15,R
-   6
-  30,R
+  17,R
+   7
+  27,R
   21,R,X
    1,R,K,G
    5,R
-   2,L
-   5,R,Z
-   4,R,J
-   1,R
-   1,R,K,G
-  12,R
+   2,R
+   2,R,J
+  14,R,Z
    1,R,J
-  12,R,D
+  11,R,D,X
+   1,R,J
+  11,R,D
   15,D,C
    5,D
-  12,D
+  10,D
   40
-
 #lvl_a-03
   15,D
   10,R,D,X
@@ -92,29 +97,29 @@ console load bcwserr/BcwserrsBCSides/6BC
   14,L,X
   11,L,D
   29,D
-   2,L,D
-  15,D
-  19,R,X
-  15,R,Z
-  14,R,U,X
+   6,L,D
+   0,D
+  14,R,D,X
+   6,R
+  17,R,Z
+  15,R,U,X
   30,R,D
-  23,L,D
-  15,R,D
+  21,L,D
+  16,R,D
   16,L
   29,L,D,X
-   5,D,C
-  20,L,D
-  29,R
   14,D,C
-   5,L,D
-  20,D
+  11,L,D
+  26,R
+  14,D,C
+  25,D
    3,R,D
-  30,D
+  32,D
    4,L,Z
    1,L,J
   30,L,D
   30,L,X
-Repeat,20
+Repeat,17
    1
    1,D
 EndRepeat
@@ -125,18 +130,19 @@ EndRepeat
    2,J
    4
    1,R
-  11,L,Z
+  12,L,Z
    1,R,J
    6,R
    1,R,J
+   6,R,D,X
    1,R,K,G
-   6,R,Z
+   5,R
   40
 #lvl_a-04
    3
-   9,R,Z
+  11,R,J
   24,U,X
-  20,R
+  22,R
   21,R,X
    9,J
    1,L,J
@@ -151,10 +157,12 @@ EndRepeat
   19,R
   49,R,D,X
   60,R,U,C
-  32,D,X
+  27,D,X
+   1,L,D
+   4,D
    5,L,D
-  19,R
-  25,R,X
+  23,R
+  15,R,X
   36,L
   14,R,U,X
   22,R,D
@@ -162,28 +170,32 @@ EndRepeat
    1,F,90
   25,F,98
    3,F,90
-  32,F,86
-  17,F,26
-   4,F,90
-  15,F,150
-  63,R,D,X
+  28,F,86
+  21,F,41
+  15,F,90
+   0,F,150
+  59,R,D,X
    5,J
   28,R,D
   16,R
-  12,R,Z
-   8,R,J
-   4,R,K,G
-   4,L,J
+  14,R,X
+  11,R,J
+   2,L,K
+   0,R,K,G
+   0,L,J
   14,U,X
-  24,R,J
-  12,R
+  14,R,J
+   4,R,K,G
+   7,R
+   1,R,J
+   4,R
   14,D,X
-   6,R
+   6,R,D
   12,R,D
-   4,R,X
-  20,R,J
-  41,R,U,X
-  62,R,Z
+   6,R,X
+  36,R,J
+  18,R,U,X
+  59,R,Z
   15,D,X
    5,L,D
   14,L
@@ -202,30 +214,33 @@ EndRepeat
    6,R,D,X
    1,R,J
   40
-
 #lvl_a-05
    3
    7,R
   21,R,J
   15,R,U,X
   13,R,U,C
-  48,R,J
+  49,R,J
   14,U,X
-  16,R,J
+  15,R,J
   20,L,K
-  63,L,X
+  62,L,X
   14,L,Z
-   7,L
-  20,L,U,Z
-  49,R
-  28,R,X
-  12,R,J
+   4,L
+  12,L,U,X
+  51,R
+  15,R,X
+  12,R,D
+   1,R,J
+   1,R,K
+   9,R,J
   20,R,Z
-  53,L
+  47,L
   14,L,U,X
-  14,U,C
+   4,L
+  14,L,U,C
   42
   14,U,X
   14,U,C
  142
-ChapterTime: 0:52.921(3113)
+ChapterTime: 0:51.697(3041)
