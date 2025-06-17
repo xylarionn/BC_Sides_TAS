@@ -1,14 +1,13 @@
 # Bcwserr'sBC_Sides
 # https://gamebanana.com/mods/572257
 
-RecordCount: 987
+RecordCount: 990
 
 console load bcwserr/BcwserrsBCSides/2BC
    1
 
 #Start
  190
-
 #lvl_a-01
   15,R,J
   30,R,X
@@ -149,7 +148,6 @@ console load bcwserr/BcwserrsBCSides/2BC
    1,R,J
   12,R,D
   40
-
 #lvl_a-04
    6,R,D
   18,R,Z
@@ -173,20 +171,24 @@ console load bcwserr/BcwserrsBCSides/2BC
   23,R,J
    3,R
   24,R,K,G
-  17,R,D,X
-   4,D
-   4,R,D
-  12,R,U,C
+  12,R,D
+  14,R,Z
+   4,L
+   3,R,J
+   3,R,K
+   2,R
+   1,R,J
+   6,R
+   2,R,K
+   2,R
    1,L
-   5,J,G
-   2,R,J
-  17,R
-  14,U,Z
-   8,R,J
-   9,R
-   2,R,J
-  35,R,D
-  30,R,Z
+   1,R,J
+  10,R,K
+   6,R
+   6,R,J,G
+  39,R,D
+   3,R
+  25,R,Z
    4,R,K
    5,R,J
   18,R
@@ -202,7 +204,8 @@ console load bcwserr/BcwserrsBCSides/2BC
   17,U,X
    1,R
    1,R,J
-  34,L,J
+  33,L,J
+   1,L
    6,L,K,G
    5,L
    5,R
@@ -219,7 +222,6 @@ console load bcwserr/BcwserrsBCSides/2BC
    1,J,F,180
 SaveAndQuitReenter
   36
-
 #lvl_a-05
    7,R,X
   10,R,J
@@ -248,4 +250,4 @@ SaveAndQuitReenter
   15,L
    1,L,J,G
   47,L,K,G
-ChapterTime: 0:38.250(2250)
+ChapterTime: 0:38.114(2242)
