@@ -123,10 +123,11 @@ console load bcwserr/BcwserrsBCSides/4BC
    4,R
   21,R,J
   11,R,K,G
-  16,R
-   5,R,J
-  10,R
-  10,L,D,X
+  14,R
+   2,L
+   5,L,J
+   2,L
+  10,R,D,X
    5,R,J
   12,R,D,X
   40
@@ -134,14 +135,13 @@ console load bcwserr/BcwserrsBCSides/4BC
 #a-04
    3,R
   15,R,J
-  14,R,U,X
-  21,R,K,G
-  11,R
-   7
+  12,R,U,X
    2,R,J,G
-  46,R,D
-   1,R,J
-   2,R
+  17,R,K,G
+  18,R
+   1,R,J,G
+  13,R,D
+  30,D
   14,R,X
    1,R
   14,U,X
@@ -155,30 +155,31 @@ console load bcwserr/BcwserrsBCSides/4BC
    3,D
   29,D
   15,R,D,X
-  18,U,C
-   1,R,J
-   9,R,U,X
-  26,R,J
+  24,R,C
+  17,R,U,X
+   7,R,J
+  13,R
   14,R,Z
-   1,J
+   1,R,J
   14,R,D,X
-  15,R,D
-   1,R
+   1,R,J
   40
 
 #a-05
-   4,R,J
-  18,R,K,G
-  15,R
-  14,R,X
+
+   3,R,J
+  14,R,D,X
+  14,R,J
+  10,R
+  12,R,X
    7,R,J
   13,R,U,X
    3,R,J,G
    4,R,K,G
   10,R,J,G
    1,K,G
-  10,R
-   1,L
+  10,R,D
+   1,L,D
   32,R,D
   13,R,Z
   19,R,J
@@ -231,4 +232,4 @@ console load bcwserr/BcwserrsBCSides/4BC
   31,R,J
   14,L,U,X
  125
-ChapterTime: 0:40.664(2392)
+ChapterTime: 0:40.188(2364)
