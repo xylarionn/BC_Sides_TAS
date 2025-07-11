@@ -3,7 +3,7 @@ console load bcwserr/BcwserrsBCSides/9BC
 #Start
 
 #spinner cycle
-   0
+   1
 
   14,R,Z
    1,R,J
@@ -33,12 +33,12 @@ console load bcwserr/BcwserrsBCSides/9BC
    8,R
    5,L,Z
    1,R,J
-  19,R,D
-  14,U,X
-  31,D
   14,R,D
+  14,U,X
+  17,D
+  31,R,D
   14,R,X
-  11,R,D
+  12,R,D
   14,R,J,X
   23,R,J
   10,U,X
