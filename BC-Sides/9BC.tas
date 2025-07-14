@@ -3,7 +3,7 @@ console load bcwserr/BcwserrsBCSides/9BC
 #Start
 
 #spinner cycle
-   1
+   0
 
   14,R,Z
    1,R,J
@@ -194,50 +194,44 @@ EndRepeat
    3,R
   12,R,D,X
    1,R,J,G
+   2
    1,R,K,G
-   1,R,J,G
-   6,R
-   1,S,N
-  10,J
+   7,R
    1,R,J
-   1,R
-   4,R,J
-   2,R
-   5,R,D,X
+   9,R,U,X
    1,R,J,G
    1,R,K,G
-   1,R
-   1,R,J,G
+   7,R
+   5,R,U,X
+   3,R,J,G
    2,R,K,G
-   6,R
-   1,S,N
-  10,J
-   1,R,J
-   1,R
+   7,R
    8,R,U,X
    1,R,J,G
-   1,R,K,G
-   1,R
-   6,R,J,G
-   6,R,K,G
-  40
+   2,R,J
+   4,R,J
+  40,J
 
-#a-06
-   5,R,K
-  10,R
-  15,R,U,Z
-   5,R,D
-  25,D
+# a-06
+   2,R,J
+   7,R,D
+  13,R,U,Z
+   1,K,G
+   7,D,K
+   1,L,D
+  20,R,D
   10,L,D
+   6,L
    5,R,J
-  19,R
+   8
+  11,R,J
   14,R,X
-  17
+  18
    1,R,D
   60,F,87.128
    1,F,85.154
   15,F,67.508
-  14,R,Z
+  13,R,Z
   36,R,J
   14,R,Z
  165,R,C
@@ -514,5 +508,4 @@ EndStunPause
  111
   15,U,X
  146,U,C
-
-ChapterTime: 2:13.620(7860)
+ChapterTime: 2:13.178(7834)
